@@ -3,15 +3,15 @@ package Devel::VersionDump;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
-Devel::VersionDump
+Devel::VersionDump - Dump loaded module versions to the console
 
 =head1 VERSION
 
-0.01
+0.02
 
 =head1 SYNOPSIS
 
@@ -113,7 +113,7 @@ INIT {
 
 =head1 AUTHOR
 
-Rob Hoelz <rob@hoelz.fo>
+Rob Hoelz <rob@hoelz.ro>
 
 =head1 BUGS
 
